@@ -7,3 +7,8 @@
 eirikL71/eirikL71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Boot camp test
+- This is text
+1. First lint
+2. list
